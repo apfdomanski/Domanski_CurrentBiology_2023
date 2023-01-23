@@ -1,0 +1,1 @@
+arrayfun(@(x)   view([90,-90]),findobj(gcf,'Type','axes'))
